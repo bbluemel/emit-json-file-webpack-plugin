@@ -23,5 +23,8 @@
   "homepage": "https://github.com/wtho/emit-json-file-webpack-plugin#readme",
   "devDependencies": {
     "json-format": "^1.0.1"
+  },
+  "dependencies": {
+    "loader-utils": "^1.1.0"
   }
 }
